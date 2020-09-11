@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ALTEX Core
+Comment=ALTEX P2P Cryptocurrency
+Comment[de]=Verbinde mit dem ALTEX peer-to-peer Netzwerk
+Comment[fr]=ALTEX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ALTEX, eşten eşe kriptografik sanal para birimi
+Exec=altex-qt %u
+Terminal=false
+Type=Application
+Icon=altex128
+MimeType=x-scheme-handler/altex;
+Categories=Office;Finance;

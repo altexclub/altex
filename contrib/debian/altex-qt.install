@@ -1,0 +1,6 @@
+usr/local/bin/altex-qt usr/bin
+share/pixmaps/altex32.xpm usr/share/pixmaps
+share/pixmaps/altex16.xpm usr/share/pixmaps
+share/pixmaps/altex128.png usr/share/pixmaps
+debian/altex-qt.desktop usr/share/applications
+debian/altex-qt.protocol usr/share/kde4/services/
